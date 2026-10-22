@@ -124,7 +124,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 26
+        width: 27
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -144,9 +144,9 @@ TextureImporter:
       name: Player Sprites_1
       rect:
         serializedVersion: 2
-        x: 40
+        x: 39
         y: 0
-        width: 26
+        width: 28
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -166,9 +166,9 @@ TextureImporter:
       name: Player Sprites_2
       rect:
         serializedVersion: 2
-        x: 80
+        x: 79
         y: 0
-        width: 26
+        width: 27
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
